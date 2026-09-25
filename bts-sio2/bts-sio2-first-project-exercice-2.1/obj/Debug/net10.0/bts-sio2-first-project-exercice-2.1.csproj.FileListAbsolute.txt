@@ -1,0 +1,14 @@
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\bin\Debug\net10.0\bts-sio2-first-project-exercice-2.1.exe
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\bin\Debug\net10.0\bts-sio2-first-project-exercice-2.1.deps.json
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\bin\Debug\net10.0\bts-sio2-first-project-exercice-2.1.runtimeconfig.json
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\bin\Debug\net10.0\bts-sio2-first-project-exercice-2.1.dll
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\bin\Debug\net10.0\bts-sio2-first-project-exercice-2.1.pdb
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\bts-sio2-first-project-exercice-2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\bts-sio2-first-project-exercice-2.1.AssemblyInfoInputs.cache
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\bts-sio2-first-project-exercice-2.1.AssemblyInfo.cs
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\bts-sio2-first-project-exercice-2.1.csproj.CoreCompileInputs.cache
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\bts-sio2-first-project-exercice-2.1.dll
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\refint\bts-sio2-first-project-exercice-2.1.dll
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\bts-sio2-first-project-exercice-2.1.pdb
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\bts-sio2-first-project-exercice-2.1.genruntimeconfig.cache
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\ref\bts-sio2-first-project-exercice-2.1.dll
