@@ -12,3 +12,4 @@ C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\re
 C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\bts-sio2-first-project-exercice-2.1.pdb
 C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\bts-sio2-first-project-exercice-2.1.genruntimeconfig.cache
 C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\ref\bts-sio2-first-project-exercice-2.1.dll
+C:\Users\fadel\bts-sio2\bts-sio2-first-project-exercice-2.1\obj\Debug\net10.0\bts-sio2-first-project-exercice-2.1.sourcelink.json
