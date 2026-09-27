@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bts-sio2-first-project-exercice-2.1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed2f1ad772d6fa99ccf60ff63614942b18dda006")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c659cd764000db0c2ae221c03dee67dccb7cd42")]
 [assembly: System.Reflection.AssemblyProductAttribute("bts-sio2-first-project-exercice-2.1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bts-sio2-first-project-exercice-2.1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
