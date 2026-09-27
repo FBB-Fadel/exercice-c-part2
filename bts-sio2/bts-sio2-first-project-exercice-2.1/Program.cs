@@ -1,12 +1,10 @@
-﻿void EnvoyerNotification(INotification notification, string message)
+﻿void AfficherFrais(ICalculFrais calcul, decimal montant)
 {
-    notification.Envoyer(message);
+    decimal frais = calcul.Calculer(montant);
+
+    Console.WriteLine($"Frais : {frais:F2} €");
 }
 
-var email = new NotificationEmail();
-var sms = new NotificationSms();
-var console = new NotificationConsole();
-
-EnvoyerNotification(email, "Votre commande est prête.");
-EnvoyerNotification(sms, "Votre commande est prête.");
-EnvoyerNotification(console, "Votre commande est prête.");
+AfficherFrais(new FraisStandard(), 1000m);
+AfficherFrais(new FraisPremium(), 1000m);
+AfficherFrais(new SansFrais(), 1000m);
